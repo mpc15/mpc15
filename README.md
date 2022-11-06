@@ -9,7 +9,7 @@
 
 - 👨‍💻 Most of my projects are available on at [GitHub](https://github.com/mpc15)
 
-- 💬 Connect with me on [LinkedIn](https://www.linkedin.com/in/murphypcampbell/)
+- 💬 Connect with me on [LinkedIn](https://www.linkedin.com/in/murphypcampbell/) or shoot me an email at campbell.murph@gmail.com
 
 - 📄 I love reading **current events, market trends, and LOTR**
 
