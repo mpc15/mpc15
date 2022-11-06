@@ -1,5 +1,5 @@
 <h1 align="center">Hey 👋, I'm Murphy</h1>
-<h3 align="center">Good to meet you.</h3>
+<h3 align="center">Good to meet you. Go ahead and take a look at my repos.</h3>
 
 I'm a full-stack JavaScript developer living in Athens, Georgia. Being self-taught, I'm a fast, passionate, proactive learner. I've learned a lot from the open source community, and I'm currently looking for opportunities to contribute to interesting and innovative projects. Reach out if you'd like to collaborate or need some freelance work done. 
 
