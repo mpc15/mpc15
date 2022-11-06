@@ -8,7 +8,7 @@ I'm a full-stack JavaScript developer living in Athens, Georgia. As a self-taugh
 <p align="left">
 <a href="https://codepen.io/@murcam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="@murcam" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/murphypcampbell" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="murphypcampbell" height="30" width="40" /></a>
-<a href="mailto:campbell.murph@gmail.com" target="blank"><img align="center" src="https://www.dropbox.com/s/6ckui2r3gqjkv4n/7115264_new_logo_gmail_icon.png?dl=0" alt="murphyemail" height="30" width="40" /></a>
+<a href="mailto:campbell.murph@gmail.com" target="blank"><img align="center" src="[https://www.dropbox.com/s/6ckui2r3gqjkv4n/7115264_new_logo_gmail_icon.png?dl=0](https://www.dropbox.com/s/6ckui2r3gqjkv4n/7115264_new_logo_gmail_icon.png?dl=0)" alt="murphyemail" height="30" width="40" /></a>
 </p>
 
 ***
