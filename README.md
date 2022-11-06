@@ -2,7 +2,7 @@
 <h3 align="left">Good to meet you. Go ahead and take a look around.</h3>
 
 <p align="left">
-I'm a full-stack JavaScript developer living in Athens, Georgia. As a self-taught dev, I'm a fast, passionate, proactive learner. I've learned a lot from the open source community, and I'm currently looking for opportunities to contribute to interesting and innovative projects. Reach out if you'd like to collaborate or need some freelance work done.
+I'm a full-stack JavaScript developer living in Athens, Georgia. As a self-taught dev, I'm a fast, passionate, proactive learner. I've gained a lot from the open source community, and I'm currently looking for opportunities to contribute to interesting and innovative projects. Reach out if you'd like to collaborate or need some freelance work done.
 </p>
 
 ***
