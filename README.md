@@ -1,9 +1,11 @@
-<h1 align="center">Hey 👋, I'm Murphy</h1>
-<h3 align="center">Good to meet you. Go ahead and take a look around.</h3>
+<h1 align="left">Hey 👋, I'm Murphy</h1>
+<h3 align="left">Good to meet you. Go ahead and take a look around.</h3>
 
-I'm a full-stack JavaScript developer living in Athens, Georgia. Being self-taught, I'm a fast, passionate, proactive learner. I've learned a lot from the open source community, and I'm currently looking for opportunities to contribute to interesting and innovative projects. Reach out if you'd like to collaborate or need some freelance work done. 
+<p align="left">
+I'm a full-stack JavaScript developer living in Athens, Georgia. Being self-taught, I'm a fast, passionate, proactive learner. I've learned a lot from the open source community, and I'm currently looking for opportunities to contribute to interesting and innovative projects. Reach out if you'd like to collaborate or need some freelance work done.
+</p>
 
-<p align="center">
+<p align="left">
 <a href="https://codepen.io/@murcam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="@murcam" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/murphypcampbell" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="murphypcampbell" height="30" width="40" /></a>
 </p>
