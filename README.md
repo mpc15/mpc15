@@ -5,7 +5,7 @@ I'm a full-stack JavaScript developer living in Athens, Georgia. Being self-taug
 
 ***
 
-<h3 align="right">About Me</h3>
+<h3 align="left">About Me</h3>
 
 - 🔭 I’m currently working with **React.js, Node.js, MongoDB, Express, CSS3, HTML5**
 - 🌱 I’m currently exploring **blockchain technologies**
